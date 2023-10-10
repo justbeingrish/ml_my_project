@@ -1,7 +1,5 @@
 #my sample envs
-D:\my_ml_project\mumu
-D:\my_ml_project\anu
-D:\my_ml_project\pandey
+('pandey/')
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
