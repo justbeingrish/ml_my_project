@@ -1,5 +1,7 @@
 #my sample envs
-('pandey/')
+pandey
+mumu
+anu
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
