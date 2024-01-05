@@ -2,6 +2,7 @@
 pandey
 mumu
 anu
+gubu
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -124,6 +125,12 @@ celerybeat.pid
 *.sage.py
 
 # Environments
+.artifacts
+.anu
+.gubu
+.mumu
+.nokia
+.pandey
 .env
 .venv
 env/
