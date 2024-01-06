@@ -125,20 +125,22 @@ celerybeat.pid
 *.sage.py
 
 # Environments
-.artifacts
-.anu
-.gubu
-.mumu
-.nokia
-.pandey
+.benji/
+.artifacts/
+.anu/
+.gubu/
+.mumu/
+.nokia/
+.pandey/
 .env
-.venv
+.venv/
 env/
 venv/
 ENV/
 env.bak/
 venv.bak/
-
+benji.bak/
+benji/
 # Spyder project settings
 .spyderproject
 .spyproject
